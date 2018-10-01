@@ -5,7 +5,7 @@
 <body>
 <title>Sameen Yassar Khan</title>
 <h1>Sameen Yassar Khan</h1>
-<a href= https://github.com/SameenYassarKhan/ACM-HTML/blob/master/Me.gif.PNG>
+<a href= https://github.com/SameenYassarKhan/ACM-HTML/blob/master/Me.gif.PNG></href>
 <h2> Cchatronong Oddhayon Topo</h2>
 <p lang="en">This is a statement that I always follow as I progress through my life as a student! It is a statement said by my late grandfather. It means that in a student's life, <b>study is worship!</p>
 <p><u>About Me</u></p>
