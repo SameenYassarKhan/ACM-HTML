@@ -1,0 +1,103 @@
+<DOCTYPE HTML>
+    
+<html>
+    <head>
+        <meta charset=UTF-8">
+ <link rel="stylesheet" href="style.css">
+<style>
+body {background-color: cyan;}
+h   {color: green;}
+p    {color: purple;}
+</style>
+    
+        
+            
+            <h><img src="./index2_files/zPwJhus.png" title="source: imgur.com">"</h>
+       
+        
+        
+                    
+            <p> <h><em><b>This website tends to record database of the students of Calstate University of Los Angeles to assist officials on conducting a survey!</b></em><h></h>
+                <div class="video">
+                 </h></p><p><iframe width="560" height="315" src="https://www.youtube.com/embed/LOWSFCMopA4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+                <div>
+                <p><em><b>It also enables newly admitted students to get familiar with the campus before even coming to the campus!<b></b></b></em></p><b><b>
+                    
+                    
+    <form>
+      <fieldset>
+        <legend>Register to GET</legend>
+        <p>
+         <label>First Name:</label>
+        <p>  <input type = "text"
+                 id = "Name1"
+                 value = "text here" />
+        </p>
+          <p>
+         <label>Last Name:</label>
+        <p>  <input type = "text"
+                 id = "Name2"
+                 value = "text here" />
+        </p>
+        </p>
+        
+        <p>
+        <label for="email">Email:</label>   
+         <p>    <input type ="email" id="email" name="email" multiple>
+             </p>
+        </p>
+         
+        
+        <p>
+             <label>Level</label>
+             <select id = "myList">
+               <option value = "1">Coding Freshmen</option>
+               <option value = "2">Sabertoothed Sophmore</option>
+               <option value = "3">Jolly Juniors</option>
+               <option value = "4">Super Seniors</option>
+             </select>
+          </p>
+        
+        <legend><p><b><em>Which character do you wish to use in </em><strong>FORTNITE</strong>?</b></p></legend>
+        <input type="checkbox" name="hero" value="Nitelite" id="Nitelite"><label for="Nitelite">Nitelite</label><br>
+        <input type="checkbox" name="hero" value="Liteshow" id="Liteshow"><label for="Liteshow">Liteshow</label><br>
+        <input type="checkbox" name="hero" value="Omega" id="Omega"><label for="Omega">Omega</label><br>
+        <input type="checkbox" name="hero" value="Dire" id="Dire"><label for="Dire">Dire</label><br>
+      </fieldset>
+   <a href="file:///C:/Users/samee/OneDrive/Documents/FirstWeb.html">Venom Fundraiser Details</a>
+
+        </form>
+ <button onclick="myFunction()">Submit</button>
+
+<script>
+function myFunction() {
+    alert("I know what you have inputted and you also know what you inputted! I am just an alert bot and I am made by a Cybersecurity officer and so I tend to keep information as top secret!");
+}
+</script>
+            
+    </body>
+        </html>
+
+
+
+
+
+
+CSS
+button, input, select, textarea {
+font-family: fantasy;
+    font-size: 100%;
+}
+input[type="file"]{
+    font-size: .5em;
+    color:blueviolet;
+    padding-top: .5em;
+    border-bottom:2px dashed black
+        .video{
+            background-color:bisque
+    }
+    .videoframe{
+        border: 2px solid black;
+        box-shadow: 1px 1px 10px black;
+    }
+}
